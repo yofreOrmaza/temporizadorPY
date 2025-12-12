@@ -4,8 +4,16 @@ https://github.com/user-attachments/assets/25afdfe6-7c06-4345-bef8-4c6cbaafe7f1
 
 ## Requirements
 
-- python
-- pip install pygame
+### Windows
+
+- Install Python from Microsoft Store
+- Install pygame from cmd: ```pip install pygame```
+
+### Linux (Ubuntu)
+
+- pip: ```sudo apt install python3-pip```
+- pygame: ```sudo apt install python3-pygame```
+- Tkinter: ```sudo apt install python3-tk```
 
 ## How to Use
 
